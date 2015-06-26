@@ -1,6 +1,6 @@
 # formulario
 
-> Effortlessly turn <form> elements into payloads encoded as `multipart/form-data`
+> Effortlessly turn `<form>` elements into payloads encoded as `multipart/form-data`
 
 # Install
 
